@@ -3,10 +3,14 @@
 /workspace.xml
 # Datasource local storage ignored files
 <<<<<<< HEAD
+<<<<<<< HEAD
 /../../../../../../:\Study\Portfolio\Git\Study_Git\.idea/dataSources/
 =======
 /../../../../../../../../:\Users\hjww0\OneDrive\바탕 화면\Test\Study_Git\.idea/dataSources/
 >>>>>>> origin/main
+=======
+/../../../../../../../../:\Users\hjww0\OneDrive\바탕 화면\Test\Study_Git\.idea/dataSources/
+>>>>>>> Woowon
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
